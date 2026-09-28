@@ -15,6 +15,12 @@ map converter, a displacement shader, and remembering that base colour is sRGB w
 Raw. It is ten minutes of clicking per asset, and the colour space is the part everyone gets wrong. This
 does it in one press, the same way every time.
 
+
+
+https://github.com/user-attachments/assets/02a12c92-a97c-4b4f-a958-38340a357fad
+
+
+
 ## What it handles
 
 | | |
